@@ -112,6 +112,10 @@ ul li .transparent {
     font-weight: 400;
 }
 
+.attribution {
+    color:white;
+}
+
 @media only screen and (max-width: 900px) {
     .main{
         flex-direction:column-reverse ;
