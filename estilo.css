@@ -120,5 +120,16 @@ ul li .transparent {
     .main{
         flex-direction:column-reverse ;
         width: 540px;
+        height: 700px;
     }
+
+    .card {
+        height: 40%;
+    }
+
+    h3 {
+        margin-bottom: 40px;
+    }
+
+    
   }
